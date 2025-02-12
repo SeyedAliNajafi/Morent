@@ -19,7 +19,7 @@ I've used React + TailwindCss for this project.
 
 
 ## Made By Seyed Ali Najafi
-[Live Website](https://mizan-app.ir)
+[Live Website](https://mizan-app.ir)  
 [Portfolio](https://seyedalinajafi.ir)
 
 
