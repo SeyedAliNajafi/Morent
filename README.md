@@ -17,6 +17,12 @@ I've used React + TailwindCss for this project.
   <img src="mobile.png" width="300" alt="Description">
 </p>
 
+
+## Made By Seyed Ali Najafi
+[Live Website](https://mizan-app.ir)
+[Portfolio](https://seyedalinajafi.ir)
+
+
 ## Installation
 ```bash
 git clone https://github.com/your-username/your-repo.git](https://github.com/SeyedAliNajafi/Morent
