@@ -1,6 +1,6 @@
 # Morent
 
-![Project Logo](image_2025-02-12_225913814.png)
+![Project Logo](morent.png)
 
 ## About the Project
 Morent is car rental project where you can look in to so many different models of cars and rent the one you want with a really cheap price. This project is based on this [Figma](https://www.figma.com/design/1H0CqqHXNogN0c5E6WpEqI/Car-Rent-Website-Design---Pickolab-Studio-(Community)?node-id=1-5&p=f&t=Ruk5V5VOFYlUtEXa-0) design.  
